@@ -49,3 +49,7 @@ h2 {
     color: white;
     font-size: small;
 }
+
+a:hover {
+    background-color: red;
+}
