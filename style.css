@@ -1,8 +1,5 @@
 html {
     background-color: black;
-    animation-name: anim;
-    animation-duration: 6s;
-    animation-delay: 0s;
 }
 #mainpart {
     text-align: center;
@@ -64,4 +61,8 @@ a:hover {
   to {
     opacity: 100%
   }
+}
+img {
+    animation-name: anim;
+    animation-duration: 6s;
 }
