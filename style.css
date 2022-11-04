@@ -1,5 +1,8 @@
 html {
     background-color: black;
+    animation-name: anim;
+    animation-duration: 6s;
+    animation-delay: 0s;
 }
 #mainpart {
     text-align: center;
@@ -52,4 +55,13 @@ h2 {
 
 a:hover {
     color: red;
+}
+
+@keyframes anim {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%
+  }
 }
