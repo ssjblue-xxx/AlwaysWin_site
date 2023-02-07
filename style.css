@@ -1,5 +1,5 @@
 html {
-    background-image: url("logo.png");
+    background-color: black;
     animation-name: anim;
     animation-duration: 6s;
 }
