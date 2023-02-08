@@ -61,3 +61,7 @@ a:hover {
     opacity: 100%
   }
 }
+
+img {
+    text-align: center;
+}
